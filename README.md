@@ -10,4 +10,5 @@
 
 ## Navigation GIF
 
-![odev4](https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Assignment4/assets/92018201/9b518f47-bf54-48c9-aa46-a3b00756f003)
+<img src="https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Assignment4/assets/92018201/9b518f47-bf54-48c9-aa46-a3b00756f003" alt="odev4" width="300"/>
+  
