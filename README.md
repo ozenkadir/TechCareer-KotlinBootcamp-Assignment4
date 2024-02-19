@@ -1,4 +1,4 @@
-# Responbilities 
+# Responsibilities 
 - Navigation Component
 - View Binding
 
